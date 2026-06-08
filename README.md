@@ -52,5 +52,6 @@ Early usage
 
 ## Author
 Ishika Sharma
+Aspiring data Analyst
 
 
